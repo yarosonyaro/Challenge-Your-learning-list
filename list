@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+    <h1> my favorite foods </h1>
+    <ul> <h2>proteins</h2> 
+    <li> beans </li>
+    <li> Eggs </li>
+    <li> Fish </li>
+    </ul>
+    <ol> <h2> Carbohydrate </h2> 
+    <li> Rice </li>
+    <li> corn </li>
+    </ol>
+    </body>
+
+</html>
